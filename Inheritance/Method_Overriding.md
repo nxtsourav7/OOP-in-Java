@@ -11,8 +11,6 @@
 
 ## Method Overloading vs Method Overriding
 
-| ## Method Overloading vs Method Overriding
-
 | **Feature**                         | **Method Overloading**            | **Method Overriding**             |
 |-------------------------------------|-----------------------------------|-----------------------------------|
 | **Parameter**                       | Must be different                 | Must be the same                  |
