@@ -1,13 +1,17 @@
-## Rules of Method Overriding in Java
+## Method Overriding
+- In Java, Declaring a method in a subclass which is already present
+in a superclass is known as method overriding.
+- Without inheritance method overriding is not possible.
+- Rules :
 
-1. Method name, signature type, and parameter must be the same:
+    1. Method name, signature type, and parameter must be the same:
 
-2. If a method can’t be inherited, then it can’t be overridden:
+    2. If a method can’t be inherited, then it can’t be overridden:
 
-3. Final/static methods can’t be overridden:
+    3. Final/static methods can’t be overridden:
 
 
-4. Constructor can’t be overridden:
+    4. Constructor can’t be overridden:
 
 ## Method Overloading vs Method Overriding
 
