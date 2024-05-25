@@ -8,7 +8,7 @@ This repository contains a collection of Java programs and examples demonstratin
 
 - [Overview](#overview)
 - [Table of Contents](#table-of-contents)
-- [Getting Started](#getting-started)
+- [Getting Started](https://github.com/nxtsourav7/OOP-in-Java/tree/main/Getting_Started)
 - [OOP Concepts](#oop-concepts)
   - [Classes and Objects](#classes-and-objects)
   - [Encapsulation](#encapsulation)
