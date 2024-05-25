@@ -12,7 +12,7 @@ This repository contains a collection of Java programs and examples demonstratin
 - [OOP Concepts](#oop-concepts)
   - [Classes and Objects](#classes-and-objects)
   - [Encapsulation](https://github.com/nxtsourav7/OOP-in-Java/tree/main/Encapsulation)
-  - [Inheritance](#inheritance)
+  - [Inheritance](https://github.com/nxtsourav7/OOP-in-Java/tree/main/Inheritance)
   - [Polymorphism](#polymorphism)
   - [Abstraction](#abstraction)
 - [Examples](#examples)
