@@ -21,7 +21,7 @@ This repository contains a collection of Java programs and examples demonstratin
   - [Method Overloading](#method-overloading)
   - [Method Overriding](#method-overriding)
 - [Contributing](#contributing)
-- [License](#license)
+- [License](https://github.com/nxtsourav7/OOP-in-Java/tree/main?tab=GPL-3.0-1-ov-file)
 
 ## Getting Started
 
