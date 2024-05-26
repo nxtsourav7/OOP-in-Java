@@ -2,7 +2,9 @@
 Abstraction in Java is the process in which we only show essential details/functionality to the user. The non-essential implementation details are not displayed to the user. 
 
 ## Abstraction in Java
-In Java, abstraction is achieved by interfaces and abstract classes.We can achieve 100% abstraction using interfaces.
+In Java, abstraction is achieved by 
+1. Abstract classes
+2. Interfaces (We can achieve 100% abstraction using interfaces)
 
 ## Advantages of Abstraction
 

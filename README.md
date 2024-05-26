@@ -14,7 +14,7 @@ This repository contains a collection of Java programs and examples demonstratin
   - [Encapsulation](https://github.com/nxtsourav7/OOP-in-Java/tree/main/Encapsulation)
   - [Inheritance](https://github.com/nxtsourav7/OOP-in-Java/tree/main/Inheritance)
   - [Polymorphism](#polymorphism)
-  - [Abstraction](#abstraction)
+  - [Abstraction](https://github.com/nxtsourav7/OOP-in-Java/tree/main/Abstraction)
 - [Examples](#examples)
   - [Single Inheritance](#single-inheritance)
   - [Multilevel Inheritance](#multilevel-inheritance)
