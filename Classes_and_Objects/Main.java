@@ -1,0 +1,11 @@
+package Classes_and_Objects;
+
+public class Main {
+    public static void main(String[] args) {
+        Student s1 = new Student();
+        s1.print();
+        
+        Student s2 = new Student("Sourav", 1030, "4A");
+        s2.print();
+    }
+}
