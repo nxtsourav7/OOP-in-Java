@@ -10,7 +10,7 @@ This repository contains a collection of Java programs and examples demonstratin
 - [Table of Contents](#table-of-contents)
 - [Getting Started](#getting-started)
 - [OOP Concepts](#oop-concepts)
-  - [Classes and Objects](https://github.com/nxtsourav7/OOP-in-Java/tree/main/Classes-and-Objects)
+  - [Classes and Objects](https://github.com/nxtsourav7/OOP-in-Java/tree/main/Classes_and_Objects)
   - [Encapsulation](https://github.com/nxtsourav7/OOP-in-Java/tree/main/Encapsulation)
   - [Inheritance](https://github.com/nxtsourav7/OOP-in-Java/tree/main/Inheritance)
   - [Polymorphism](#polymorphism)
