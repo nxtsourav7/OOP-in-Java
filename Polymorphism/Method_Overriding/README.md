@@ -6,3 +6,5 @@
 1. The method must have the same name as in the parent class.
 2. The method must have the same parameter as in the parent class.
 3. There must be an IS-A relationship (inheritance).
+4. Final/static methods can’t be overridden.
+5. Constructor can’t be overridden.
