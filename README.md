@@ -12,9 +12,7 @@ This repository contains a collection of Java programs and examples demonstratin
 - [OOP Concepts](#oop-concepts)
   - [Object Class](https://github.com/nxtsourav7/OOP-in-Java/tree/main/Classes_and_Objects)
     - [Object and Class](#fdf)
-    - dsd
   - [Encapsulation](https://github.com/nxtsourav7/OOP-in-Java/tree/main/Encapsulation)
-    - j
   - [Inheritance](https://github.com/nxtsourav7/OOP-in-Java/tree/main/Inheritance)
     - [Inheritance (IS-A)]()
     - [Aggregation (HAS-A)]()
