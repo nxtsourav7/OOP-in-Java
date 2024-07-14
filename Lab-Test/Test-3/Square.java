@@ -1,5 +1,3 @@
-package Lab_Test.Test_3;
-
 public class Square extends Geometry {
     @Override
     public void AreaSqure(int x) {

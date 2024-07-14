@@ -1,5 +1,3 @@
-package Lab_Test.Test_3;
-
 public class Tringle extends Geometry {
     @Override
     public void AreaTringle(int x, int y) {
