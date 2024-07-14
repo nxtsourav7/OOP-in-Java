@@ -1,5 +1,3 @@
-package Classes_and_Objects;
-
 public class Student {
     String name;
     int id;
