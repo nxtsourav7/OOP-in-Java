@@ -1,5 +1,3 @@
-package Polymorphism.Method_Overriding;
-
 public class Main {
     public static void main(String[] args) {
         BRAC br1 = new BRAC();
