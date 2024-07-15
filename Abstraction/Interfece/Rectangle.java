@@ -1,5 +1,3 @@
-package Abstraction.Interfece;
-
 class Rectangle implements Shape {
     private double length, width;
 

@@ -1,5 +1,3 @@
-package Abstraction.Interfece;
-
 public class Main {
     public static void main(String[] args) {
         // Calculate the area of Circle

@@ -1,5 +1,3 @@
-package Abstraction.Interfece;
-
 class Circle implements Shape {
     private double radius;
 
