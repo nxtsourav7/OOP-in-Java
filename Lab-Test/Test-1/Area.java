@@ -1,5 +1,3 @@
-package Lab_Test.Test_1;
-
 public class Area {
     int length, width;
     Area(int length, int width) {
